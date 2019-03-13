@@ -1,6 +1,6 @@
 <?php
 
-echo "Hellow world !"
+echo "ola mundo!"
 
 
 ?>
